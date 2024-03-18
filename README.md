@@ -1,5 +1,9 @@
 # Lab-1-EDD2
 
+# Para tener en cuenta:
+
+Ejecutar las celdas en orden(1. Clase Arbol, 2. Lectura Zipfile, 3. Lectura imagenes dentro del zip, 4. Menu con funcionalidades).
+
 Este codigo esta hecho para ser ejecutado en google colab.
 
 Debido a los limitados recursos que ofrece colab, hemos decidido reducir la cantidad de datos por sección para poder hacer la demostración en clase.
